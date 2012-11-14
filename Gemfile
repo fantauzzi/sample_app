@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.9'
+gem 'bootstrap-sass','2.1'
 gem 'wdm', '~> 0.0.3'
 
 # Bundle edge Rails instead:
